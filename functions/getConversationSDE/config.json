@@ -1,0 +1,18 @@
+{
+    "name": "getConversationSDE",
+    "event": null,
+    "description": "Function to obtain a list of SDE vars from a conversation",
+    "input": {
+      "headers": [],
+      "payload": {
+          "sdes":["customerInfo:companyBranch"],
+          "conversationId":"29c0de79-50af-4441-9542-f37727f962d0"
+      }
+    },
+    "environmentVariables": [
+      {
+        "key": "",
+        "value": ""
+      }
+    ]
+  }
